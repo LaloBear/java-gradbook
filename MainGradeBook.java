@@ -3,7 +3,7 @@ import java.util.*;
 public class MainGradeBook {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        Student student = new Student("Name", 0000);
+        Student student = new Student("Carlos", 7777);
         int choice = 0;
 
         while (true) {
